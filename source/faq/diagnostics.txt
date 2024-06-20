@@ -12,6 +12,8 @@ FAQ: MongoDB Diagnostics
    :depth: 1
    :class: singlecol
 
+TEST.
+
 This document provides answers to common diagnostic questions and
 issues.
 

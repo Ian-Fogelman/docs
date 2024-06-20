@@ -12,6 +12,7 @@ FAQ: Sharding with MongoDB
    :depth: 1
    :class: singlecol
 
+XXX.
 This document answers common questions about :doc:`/sharding`. See also
 the :doc:`/sharding` section in the manual, which provides an
 :ref:`overview of sharding <sharding-background>`, including details on:
